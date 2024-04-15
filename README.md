@@ -2,6 +2,6 @@
 👀 I’m interested in FDM Reprap 3D printers and mechatronics<br>
 🌱 I’m currently a highschool sophmore. I enjoy participating in hackathons and engineering competetions; I like spending my summers working on projects and hanging out with friends. <br>
 📫 You can reach me at:
-![](https://github.com/CharlotteBeLike/CharlotteBeLike/assets/150643227/5130e4fd-7c29-4e9f-ac6d-d583f661d9c4 | width=10)
+<img src="https://github.com/CharlotteBeLike/CharlotteBeLike/assets/150643227/5130e4fd-7c29-4e9f-ac6d-d583f661d9c4" width="100" height="100"></img>
 - Discord: @CharlotteBeLike
 - Email: Charlotte.malyshev@gmail.com
